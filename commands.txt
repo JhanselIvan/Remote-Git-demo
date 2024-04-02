@@ -15,3 +15,9 @@ related to a project.It keeps track of the changes made over time.
 	> remote repository -- version of repository that is stored on a server
 	or cloud-based platform. [Github]
 	>initialize a folder
+
+git log 
+	> displays all the commits that were made
+
+git log --oneline
+	> condensed version of the git log
